@@ -1,2 +1,3 @@
 # Model
-Generational
+
+See beta branch.
